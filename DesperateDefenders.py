@@ -28,7 +28,7 @@ defender_list = ['ARCHR', 'WALL']
 monster_list = ['ZOMBI', 'WWOLF']
 
 defenders = {'ARCHR': {'name': 'Archer',
-                       'maxHP': 5,
+                       'maxHealth': 5,
                        'min_damage': 1,
                        'max_damage': 4,
                        'price': 5,
